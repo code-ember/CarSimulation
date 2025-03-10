@@ -1,4 +1,4 @@
-# carSimulation
+# CarSimulation
 Creating and using classes to instantiate (create) objects in Java. A class provides a template that can be used to build real-world objects. You can use this template as often as you want to build multiple objects of the same kind. By building a simple program simulating a car using concepts covered in previous lessons, like Strings, loops, and conditions.
 
 ## Define the Car class
